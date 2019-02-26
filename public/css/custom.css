@@ -1,0 +1,106 @@
+/*Login page*/
+.loginDiv {
+    background: url("/gym.jpg") no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position:center;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 1000%;
+    position: fixed;
+    
+}
+
+.overlay {
+    background-color: rgba(0,0,0,0.8);
+    height: 100%;
+}
+
+.allign-content {
+	padding-top: 1%;
+}
+
+.panel-transparent {
+        background: none !important;
+    }
+	
+.panel-heading-login {
+	background: none !important;
+}
+
+.react-datepicker__input-container {
+    position: relative;
+    width: 130% !important;
+    display: inline-block;
+}
+
+.react-datepicker__time-container .react-datepicker__time .react-datepicker__time-box ul.react-datepicker__time-list {
+    list-style: none;
+    margin: 0;
+    height: calc(195px + (1.7rem / 2));
+    overflow-y: scroll;
+    padding-right: 30px;
+    width: 100%;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    padding: 10%;
+}
+
+.input-error-color {
+    border: 1px solid red !important;
+}
+
+.big-font {
+    font-size: 110%;
+}
+
+#logo {
+    width: 100%;
+    max-width: 350px;
+    height: auto;
+}
+
+#sidebar-logo {
+    height: 240%;
+    width: 600%;
+}
+
+#nav-color {
+    background-color: rgba(0,0,0,0);
+}
+
+.upload-btn-wrapper {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+  }
+  
+  .btn-upload {
+    border: 2px solid #1DC7EA;
+    color: white;
+    background-color: #1DC7EA;
+    padding: 8px 20px;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  
+  .upload-btn-wrapper input[type=file] {
+    font-size: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+  }
+
+  .cherector-count-color {
+      color : #9A9A9A
+  }
+
+  .border-color-red {
+    border: 1px solid red !important;
+  }
