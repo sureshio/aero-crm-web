@@ -167,7 +167,7 @@ class Login extends Component {
                                                     </div>
                                                     <div className="row">
                                                         <div className="col-lg-7 col-md-7 col-sm-12 col-xs-12">
-                                                            <a className="alink" onClick={()=>this.forgotUsername()}>Forgot Username?</a>
+                                                            <a className="alink" onClick={()=>this.forgotUsername()}>Forgot your Username -?</a>
                                                         </div>
                                                         <div className="col-lg-5 col-md-5 col-sm-12 col-xs-12">
                                                             <a className="alink" onClick={()=>this.forgotPassword()}>Forgot Password?</a>
