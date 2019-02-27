@@ -9,7 +9,7 @@ The product represents a big suite of front-end developer tools that can help yo
 
 It comes with 6 filter colors for the sidebar (`black`, `azure`,`green`,`orange`,`red`,`purple`) and an option to have a background image.
 
-## Links: Updated Ver v1
+## Links: Updated Ver v3
 
 + [Live Preview](http://lbd-react.creative-tim.com/)
 
