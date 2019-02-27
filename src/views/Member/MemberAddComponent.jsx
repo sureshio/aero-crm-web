@@ -8,7 +8,7 @@ import { Redirect } from 'react-router';
 import DatePicker from 'react-datepicker';
 
 import 'react-datepicker/dist/react-datepicker.css';
-import avatar from "assets/img/faces/face-0.jpg";
+import avatar from "../../assets/img/faces/face-0.jpg";
 
 import swal from 'sweetalert';
 import * as url from '../../baseUrl';
