@@ -6,6 +6,7 @@
     "axios": "^0.18.0",
     "bootstrap": "3.3.7",
     "chartist": "0.10.1",
+    "event-stream": "^4.0.1",
     "file-loader": "^2.0.0",
     "jquery": "^3.3.1",
     "moment": "^2.22.2",
