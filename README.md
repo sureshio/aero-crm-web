@@ -13,7 +13,7 @@ It comes with 6 filter colors for the sidebar (`black`, `azure`,`green`,`orange`
 
 + [Live Preview](http://lbd-react.creative-tim.com/)
 
-## Quick Start:
+## Quick Start: version v1
 
 Quick start options:
 
